@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shuyuan Shen"
 title_separator          : "-"
 name                     : &name "Shuyuan Shen"
-description              : &description "personal description"
+description              : &description "personal description
 url                      : https://shuyuanshen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShuyuanShen/shuyuanshen.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Shuyuan Shen"
   avatar           : "profile.png"
-  bio              : "Short Intro"
+  bio              : "Graduate Student in Political Science"
   location         : "Urbana, IL"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "academicpages"
-  twitter          : "replacethistwitterhandle"
+# employer         :
+# googlescholar    : 
+  email            : "shuyuan8@illinois.edu"
+# researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  github           : "ShuyuanShen"
+  twitter          : "shen_shuyuan"
 
 
 
@@ -152,16 +152,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
