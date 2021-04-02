@@ -14,17 +14,16 @@ Work in Progress
 ------
 
 1. **The Signaling Effect of Political Censorship in Authoritarian Regimes**
-1. **Media Types and Democratization**
-1. **Who to Blame? Official Accountability and Public Opinion on Covid-19 in China** 
 
-with Xiaoli Guo, Lucie Lu, Yiqiang Wang, and Haocheng Yin
+2. **Media Types and Democratization**
 
-1. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**
+3. **Who to Blame? Official Accountability and Public Opinion on Covid-19 in China** 
+    with Xiaoli Guo, Lucie Lu, Yiqiang Wang, and Haocheng Yin
 
-with Emily Van Duyn, Cabral Bigman-Galimore, and Isabella Raynal
+4. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**
+    with Emily Van Duyn, Cabral Bigman-Galimore, and Isabella Raynal
 
-1. **Challenges to Illinois Local News and The Platformization of Journalism and Information During COVID-19: Politics, Health Misinformation, and Partisanship** 
-
-with Cabral Bigman-Galimore, Gabriel Malo, Ewa Maslowska, Claire O’Brien, Isabella Raynal, Harsh Taneja, Nikki Usher, Emily Van Duyn, and Adrian Wong
+5. **Challenges to Illinois Local News and The Platformization of Journalism and Information During COVID-19: Politics, Health Misinformation, and Partisanship** 
+    with Cabral Bigman-Galimore, Gabriel Malo, Ewa Maslowska, Claire O’Brien, Isabella Raynal, Harsh Taneja, Nikki Usher, Emily Van Duyn, and Adrian Wong
 
 
