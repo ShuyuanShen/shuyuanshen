@@ -20,7 +20,7 @@ Work in Progress
 3. **Media, Information Control, and Regime Change** 
 
 4. **Buying a Foreign Boat: How China Reshapes Media Abroad**<br>
-    with Emily Van Duyn, Cabral Bigman-Galimore, Isabella Raynal, and Maggie Zhang
+    with Maggie Zhang
 
 5. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**<br>
     with Emily Van Duyn, Cabral Bigman-Galimore, Isabella Raynal, and Maggie Zhang
