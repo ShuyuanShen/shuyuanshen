@@ -19,14 +19,14 @@ Work in Progress
 
 3. **Media, Information Control, and Regime Change** 
 
-4. **Buying a Foreign Boat: How China Reshapes Media Abroad**\n
+4. **Buying a Foreign Boat: How China Reshapes Media Abroad**<br>
     with Emily Van Duyn, Cabral Bigman-Galimore, Isabella Raynal, and Maggie Zhang
 
-5. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**\n
+5. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**<br>
     with Emily Van Duyn, Cabral Bigman-Galimore, Isabella Raynal, and Maggie Zhang
 
 6. **The Politicization of Chinese Investment: Electoral Competition and Anti-China Protest in Central Asia and
-Africa**\n
+Africa**<br>
     with Do-Young Gong, Sanghoon Kim-Leffingwell, and Yujeong Yang
 
 
