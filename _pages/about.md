@@ -13,17 +13,20 @@ I am a Ph.D. student in political science at the University of Illinois at Urban
 Work in Progress
 ------
 
-1. **The Signaling Effect of Political Censorship in Authoritarian Regimes**
+1. **“Canceled”: The Democratic Consequences of Perceived Censorship**
 
-2. **Media Types and Democratization**
+2. **Censorship and Propaganda Persuasiveness in Autocracies**
 
-3. **Who to Blame? Official Accountability and Public Opinion on Covid-19 in China** 
-    with Xiaoli Guo, Lucie Lu, Yiqiang Wang, and Haocheng Yin
+3. **Media, Information Control, and Regime Change** 
 
-4. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**
-    with Emily Van Duyn, Cabral Bigman-Galimore, and Isabella Raynal
+4. **Buying a Foreign Boat: How China Reshapes Media Abroad**
+    with Emily Van Duyn, Cabral Bigman-Galimore, Isabella Raynal, and Maggie Zhang
 
-5. **Challenges to Illinois Local News and The Platformization of Journalism and Information During COVID-19: Politics, Health Misinformation, and Partisanship** 
-    with Cabral Bigman-Galimore, Gabriel Malo, Ewa Maslowska, Claire O’Brien, Isabella Raynal, Harsh Taneja, Nikki Usher, Emily Van Duyn, and Adrian Wong
+5. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**
+    with Emily Van Duyn, Cabral Bigman-Galimore, Isabella Raynal, and Maggie Zhang
+
+6. **The Politicization of Chinese Investment: Electoral Competition and Anti-China Protest in Central Asia and
+Africa** 
+    with Do-Young Gong, Sanghoon Kim-Leffingwell, and Yujeong Yang
 
 
