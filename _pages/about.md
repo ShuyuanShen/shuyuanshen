@@ -23,7 +23,7 @@ Work in Progress
     with Maggie Zhang
 
 5. **Platforms and Politics: Digital Communication Infrastructure in Rural Illinois**<br>
-    with Emily Van Duyn, Cabral Bigman-Galimore, Isabella Raynal, and Maggie Zhang
+    with Emily Van Duyn, Cabral Bigman-Galimore, Isaiah R. Raynal, and Maggie Zhang
 
 6. **The Politicization of Chinese Investment: Electoral Competition and Anti-China Protest in Central Asia and
 Africa**<br>
