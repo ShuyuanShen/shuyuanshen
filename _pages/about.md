@@ -5,6 +5,7 @@ redirect_to: "http://shuyuanshen.com"
 ---
 permalink: /
 title: "Welcome"
+redirect_to: http://shuyuanshen.com
 excerpt: "About me"
 author_profile: true
 redirect_from: 
