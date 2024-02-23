@@ -3,7 +3,7 @@ redirect_to: "http://shuyuanshen.com"
 ---
 
 ---
-permalink: /
+permalink: http://shuyuanshen.com
 title: "Welcome"
 redirect_to: http://shuyuanshen.com
 excerpt: "About me"
