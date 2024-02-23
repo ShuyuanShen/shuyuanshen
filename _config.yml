@@ -5,8 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-plugins:
-  - jekyll-redirect-fr
+gems:
+  - jekyll-redirect-from
   
 # Site Settings
 locale                   : "en-US"
