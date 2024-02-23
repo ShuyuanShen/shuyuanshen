@@ -1,5 +1,5 @@
 ---
-redirect_to: "http://shuyuanshen.com"
+redirect_to: http://shuyuanshen.com
 ---
 
 ---
