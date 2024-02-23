@@ -1,4 +1,8 @@
 ---
+redirect_to: "http://shuyuanshen.com"
+---
+
+---
 permalink: /
 title: "Welcome"
 excerpt: "About me"
